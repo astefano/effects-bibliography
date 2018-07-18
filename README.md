@@ -61,6 +61,10 @@ in various programming languages.
 
 ### 2018
 
+* **What is algebraic about algebraic effects and handlers?** (tutorial given at [Dagstuhl](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18172))  
+  by Andrej Bauer  
+  ([pdf](https://arxiv.org/pdf/1807.05923))  
+
 * **Explicit Effect Subtyping** (ESOP 2018)  
   by Amr Hany Saleh, Georgios Karachalias, Matija Pretnar, and Tom Schrijvers  
   ([pdf](https://lirias.kuleuven.be/bitstream/123456789/618119/1/esop18-final71.pdf)) ([pdf with appendix](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/esop2018.pdf)) ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/616205/1/CW711.pdf))
